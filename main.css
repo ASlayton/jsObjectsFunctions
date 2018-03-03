@@ -1,0 +1,29 @@
+.bad {
+  background-color: red;
+}
+
+.good {
+  background-color: green;
+}
+
+.petName {
+  text-decoration:underline;
+}
+
+.card {
+  border: 2px solid black;
+  width: 50%;
+  margin: 5px;
+}
+
+.isFavorite {
+  background-color: green;
+}
+
+.isNotFavorite {
+  background-color: red;
+}
+
+.pet {
+  border: 2px solid black;
+}
